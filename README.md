@@ -2,7 +2,8 @@
 ## IntelliJ IDEA localization Chinese language pack（简繁中文）
 
 
-把压缩包里的"resources_zh_CN.jar"拷贝到IDEA安装目录下的lib目录，重启即可！
+1.双击"package.cmd"打包
+2.把"resources_zh.jar"和"java_resources_cn.jar"拷贝到IDEA安装目录下的lib目录，重启即可！
 
 
 
